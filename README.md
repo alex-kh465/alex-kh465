@@ -66,6 +66,8 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexkhundongbam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -75,6 +77,35 @@
     <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=alexkhundongbam&theme=vision-friendly-dark&pixelate_avatar=false">
   </picture>
 </p>
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <a href="https://github.com/alex-kh465">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=alex-kh465&theme=tokyonight_duo&hide_border=false&stroke=FFFFFF&ring=00FFFF&fire=FF69B4&currStreakLabel=FFFFFF&background=0D1117" 
+      alt="🔥 Alex's GitHub Streak" 
+      style="max-width: 100%; border-radius: 10px;"
+    />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=alex-kh465&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=00000000&border_radius=10&rank_icon=github" 
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kh465&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=00000000&border_radius=10" 
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
