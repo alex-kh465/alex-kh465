@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dan-savage-logo.gif"/>
+  <img src="[dan-savage-logo.gif](https://images.steamusercontent.com/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" />
 </p>
 
 <p align="center">
