@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dan-savage-logo.gif" width="250" />
+  <img src="dan-savage-logo.gif"/>
 </p>
 
 <p align="center">
