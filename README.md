@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="dan-savage-logo.gif" width="250" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Alex%20Khundongbam&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Builder%20%7C%20Innovator&descAlignY=60&descAlign=60" />
 </p>
 
