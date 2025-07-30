@@ -4,8 +4,9 @@
   <img src="images.steamusercontent.gif" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad,8a2be2,00bfff,ff69b4&height=120&section=header&text=&fontSize=1&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Builder%20%7C%20Innovator&descAlignY=55&descAlign=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=&fontSize=1&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Builder%20%7C%20Innovator&descAlignY=50&descAlign=85" />
 </p>
+
 
 
 
